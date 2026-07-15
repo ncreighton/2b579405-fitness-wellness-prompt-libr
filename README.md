@@ -1,2 +1,25 @@
-# 2b579405-fitness-wellness-prompt-libr
-The fitness wellness tool you'd build yourself — if you had the time.  Fully editable: every field, color, and section customizable. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Fitness &amp; Wellness Prompt Library For Ai Tools — fully configured and ready to use - Fully editable: all fields, colors, and sections
+# Fitness & Wellness Prompt Library for AI Tools
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU8wP7r1aQA3lm0VecZM2Q)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU8wP7r1aQA3lm0VecZM2Q)
+
